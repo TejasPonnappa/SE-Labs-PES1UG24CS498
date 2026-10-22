@@ -12,7 +12,7 @@ ZONES = ["A", "B", "C"]
 
 
 def register_permit(permits, vehicle_plate, zone_id, zone_records=None):
-    """Issue a permit and return its number, or None if the input is invalid."""
+    """Issue a permit and return its number, or None for invalid input."""
     if not vehicle_plate or zone_id not in ZONES:
         return None
     if zone_records is None:
