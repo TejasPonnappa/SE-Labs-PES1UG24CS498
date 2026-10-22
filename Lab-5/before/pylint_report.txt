@@ -1,0 +1,26 @@
+************* Module parking_system
+parking_system.py:13:0: C0301: Line too long (110/100) (line-too-long)
+parking_system.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+parking_system.py:9:0: C0116: Missing function or method docstring (missing-function-docstring)
+parking_system.py:9:0: W0102: Dangerous default value [] as argument (dangerous-default-value)
+parking_system.py:16:4: W0702: No exception type(s) specified (bare-except)
+parking_system.py:19:0: C0116: Missing function or method docstring (missing-function-docstring)
+parking_system.py:22:4: W0702: No exception type(s) specified (bare-except)
+parking_system.py:25:0: C0116: Missing function or method docstring (missing-function-docstring)
+parking_system.py:29:4: W0702: No exception type(s) specified (bare-except)
+parking_system.py:32:0: C0116: Missing function or method docstring (missing-function-docstring)
+parking_system.py:39:0: C0116: Missing function or method docstring (missing-function-docstring)
+parking_system.py:40:4: W0603: Using the global statement (global-statement)
+parking_system.py:43:4: W0702: No exception type(s) specified (bare-except)
+parking_system.py:42:28: R1732: Consider using 'with' for resource-allocating operations (consider-using-with)
+parking_system.py:42:28: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+parking_system.py:46:0: C0116: Missing function or method docstring (missing-function-docstring)
+parking_system.py:47:8: W1514: Using open without explicitly specifying an encoding (unspecified-encoding)
+parking_system.py:47:8: R1732: Consider using 'with' for resource-allocating operations (consider-using-with)
+parking_system.py:51:0: C0116: Missing function or method docstring (missing-function-docstring)
+parking_system.py:51:0: C0103: Function name "setExpiry" doesn't conform to snake_case naming style (invalid-name)
+parking_system.py:54:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+-----------------------------------
+Your code has been rated at 6.32/10
+
